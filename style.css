@@ -257,6 +257,11 @@ button:hover {
     margin-top: 15px;
 }
 
+#form-feedback {
+    margin-top: 12px;
+    color: #47151f;
+}
+
 /* footer */
 .footer {
     background-color: #47151f;
